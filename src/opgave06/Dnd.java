@@ -1,4 +1,4 @@
-package opgave03;
+package opgave06;
 
 public class Dnd {
     public static void main(String[] args) {

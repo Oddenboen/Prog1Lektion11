@@ -1,4 +1,4 @@
-package opgave02;
+package opgave05;
 
 public class Departure {
     int perron;
